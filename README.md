@@ -29,8 +29,7 @@ This project allows users to browse food items, place orders, and enables admini
 - **Frontend:** HTML, CSS, JavaScript  
 - **Backend:** PHP  
 - **Database:** MySQL  
-- **Server:** Wamp
-- **Version Control:** Git & GitHub  
+- **Server:** Wamp 
 
 ---
 
